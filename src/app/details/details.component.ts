@@ -25,9 +25,8 @@ import { HouseLocation } from '../house-location';
     </section>
     <section class="listing-apply">
       <h2 class="section-heading">Apply to live here</h2>
-      <button class="primary" type="button"></button>
-
-    </section>>
+      <button class="primary" type="button">Apply</button>
+    </section>
    </article>
   `,
   styleUrls: ['./details.component.css']

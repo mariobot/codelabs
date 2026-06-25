@@ -9,6 +9,10 @@
   color: var(--primary-color);
   padding: 10px 20px 0 20px;
 }
+.listing-link {
+  color: var(--primary-color);
+  padding: 10px 20px 0 20px;
+}
 .listing-photo {
   height: 250px;
   width: 100%;

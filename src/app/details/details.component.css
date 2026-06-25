@@ -1,8 +1,8 @@
 /* src/app/details/details.component.css */
 
 .listing-photo {
-  height: 600px;
-  width: 50%;
+  height: 400px;
+  width: 100%;
   object-fit: cover;
   border-radius: 30px;
   float: right;
